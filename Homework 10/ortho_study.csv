@@ -1,0 +1,13 @@
+Foam_Dense,Anchor_Type,pull_force
+low,A,190
+low,A,200
+low,B,230
+low,B,237
+low,C,210
+low,C,205
+high,A,241
+high,A,255
+high,B,195
+high,B,210
+high,C,322
+high,C,340
